@@ -1,91 +1,115 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Courier+Prime&weight=700&size=24&pause=1000&color=00FF9C&center=true&vCenter=true&width=850&lines=OPERATIVE%3A+VISMAY+GAJERA;MISSION%3A+Engineering+Systems+That+Never+Go+Down;CLEARANCE%3A+Software+Engineer+%7C+Backend+%26+Cloud;BASE%3A+Boca+Raton%2C+Florida+%7C+Open+to+Relocation" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Courier+Prime&weight=700&size=24&pause=1000&color=64FFDA&center=true&vCenter=true&width=850&lines=VISMAY+GAJERA;Software+Engineer+%7C+Backend+%26+Cloud;Designing+Systems+Built+to+Last;Boca+Raton%2C+Florida+%7C+Open+to+Relocation" alt="Typing SVG" />
 </h1>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/CLEARANCE-BACKEND_ARCHITECT-00ff9c?style=for-the-badge&labelColor=0d1117" />
-  <img src="https://img.shields.io/badge/ROLE-SOFTWARE_ENGINEER_%2F_CLOUD_%26_AI-7209b7?style=for-the-badge&labelColor=0d1117" />
-  <img src="https://img.shields.io/badge/BASE-Florida%2C_USA-3a86ff?style=for-the-badge&labelColor=0d1117" />
-  <img src="https://img.shields.io/badge/STATUS-OPEN_TO_OPPORTUNITIES-00ff9c?style=for-the-badge&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/ARCHITECT-BACKEND_%26_CLOUD-64ffda?style=for-the-badge&labelColor=0a192f" />
+  <img src="https://img.shields.io/badge/STACK-JAVA_%7C_PYTHON_%7C_GO-7f5af0?style=for-the-badge&labelColor=0a192f" />
+  <img src="https://img.shields.io/badge/CLOUD-AWS_%7C_GCP-2cb67d?style=for-the-badge&labelColor=0a192f" />
+  <img src="https://img.shields.io/badge/STATUS-OPEN_TO_OPPORTUNITIES-64ffda?style=for-the-badge&labelColor=0a192f" />
 </div>
 
 ---
 
-## 🕶️ Operative Dossier
+## 🏛️ The Blueprint
 
-> **"I don't just build backends — I build fortresses. Every endpoint hardened, every pipeline battle-tested, every deployment containerized."**
+> **"Good architecture is invisible. Great architecture is inevitable."**
 
-I'm a **Software Engineer** specializing in backend systems, cloud infrastructure, and AI-driven automation. With experience shipping production-grade microservices at **Infor** and architecting GCP-based AI agents at **Talyroo**, I operate at the intersection of backend engineering and intelligent systems — turning distributed complexity into reliable, scalable software.
+I'm a **Software Engineer** who thinks in systems — designing distributed backends, cloud-native infrastructure, and AI-driven pipelines that scale gracefully under pressure. My work at **Infor** and **Talyroo** spans the full engineering lifecycle: from microservice design and cloud deployment to RAG-based automation and Kubernetes orchestration.
 
-- 🔧 **Field Specialty:** Microservices, RESTful APIs, Event-Driven Architecture, RAG Systems, AI Pipelines
-- 🧱 **Core Arsenal:** Java (Spring Boot), Python, SQL, Kubernetes, Docker
-- ☁️ **Theater of Operations:** AWS (EC2, Lambda, S3, ECR) · GCP · GitLab CI/CD · Jenkins
-- 📡 **Intel Systems:** PostgreSQL · MySQL · Vector Databases · Ollama · DeepSeek
-- 🎓 **Academy:** M.S. Computer Science @ Florida Atlantic University — GPA: 3.92/4.00
+I don't just write code. I draft the blueprint, stress-test the foundation, and ship things that hold.
+
+```
+┌─────────────────────────────────────────────────────────┐
+│  ARCHITECTURE PILLARS                                    │
+│                                                          │
+│  ⬡  Microservices   →  Decompose. Decouple. Deploy.     │
+│  ⬡  Cloud-Native    →  Build for scale from day one.    │
+│  ⬡  Event-Driven    →  Async by design, not by patch.   │
+│  ⬡  AI Pipelines    →  RAG, agents, and real outcomes.  │
+└─────────────────────────────────────────────────────────┘
+```
+
+- 🔧 **Specialty:** Microservices · RESTful APIs · Event-Driven Architecture · RAG Systems
+- ☁️ **Cloud:** AWS (EC2, Lambda, S3, ECR) · GCP · Kubernetes · Docker
+- 🎓 **Education:** M.S. Computer Science @ Florida Atlantic University — GPA: 3.92/4.00
 - 🏅 **Certified:** AWS Cloud Practitioner (2026)
-- ⚡ **Rule #1:** *"If it's not containerized, it's not production-ready."*
+- ⚡ **Principle:** *"If the system can't explain itself, it can't be maintained."*
 
 <p align="left">
   <a href="https://www.linkedin.com/in/vismay-gajera/">
-    <img src="https://img.shields.io/badge/CONTACT_OPERATIVE-LINKEDIN-0077B5?style=flat&logo=linkedin" height="30"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" height="28"/>
   </a>
   <a href="mailto:vismaygajera2001@gmail.com">
-    <img src="https://img.shields.io/badge/SECURE_CHANNEL-EMAIL-0078D4?style=flat&logo=microsoft-outlook" height="30"/>
+    <img src="https://img.shields.io/badge/Email-0078D4?style=flat&logo=microsoft-outlook&logoColor=white" height="28"/>
   </a>
   <a href="https://github.com/VismayGajera112">
-    <img src="https://img.shields.io/badge/FIELD_REPORTS-GITHUB-181717?style=flat&logo=github" height="30"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" height="28"/>
   </a>
 </p>
 
 <br>
 
-## 🗂️ Mission History
+## 🏗️ Engineering History
 
-### 🟢 Talyroo Inc — Software Engineer Intern | Longwood, FL *(Aug 2025 – Dec 2025)*
+### Talyroo Inc — Software Engineer Intern | Longwood, FL *(Aug 2025 – Dec 2025)*
+```
+LAYER: AI Infrastructure & Cloud
+```
 - Architected scalable web infrastructure on **GCP + PostgreSQL** for high-availability, high-concurrency data retrieval
-- Deployed an **AI-driven conversation analysis agent** to automate documentation, improving reporting accuracy for stakeholders
+- Designed and deployed an **AI-driven conversation analysis agent** to automate data documentation and stakeholder reporting
 - Orchestrated **RAG-based automated workflows** ensuring 100% data compliance across distributed systems
 
-### 🔵 Infor — Software Engineer | San Francisco, CA *(Jan 2023 – Aug 2024)*
-- Engineered **microservices and tracking tools** that cut manual validation efforts by **50%** via optimized backend logic
-- Optimized unstructured PDF ingestion using **AWS Lambda + S3**, achieving a **26% reduction in execution latency**
+---
+
+### Infor — Software Engineer | San Francisco, CA *(Jan 2023 – Aug 2024)*
+```
+LAYER: Microservices & Backend Systems
+```
+- Engineered **microservices and tracking tools** — cut manual validation effort by **50%** through optimized backend logic
+- Optimized unstructured PDF ingestion using **AWS Lambda + S3**, achieving **26% reduction in execution latency**
 - Refined data validation pipelines, reducing input noise by **85%** and improving system architecture integrity
 - Containerized workloads with **Kubernetes**, accelerating the SDLC by **25%**
 
-### ⚪ Barodaweb Pvt. Ltd — Full Stack Developer Intern | Vadodara, India *(May 2022 – Aug 2022)*
-- Built a **passwordless authentication system** via Twilio API, reducing login friction and improving security
-- Resolved infrastructure bottlenecks and shipped features in an **Agile environment**
+---
+
+### Barodaweb Pvt. Ltd — Full Stack Developer Intern | Vadodara, India *(May 2022 – Aug 2022)*
+```
+LAYER: Full-Stack & Security
+```
+- Built a **passwordless authentication system** via Twilio API, reducing login friction and improving service security
+- Resolved infrastructure bottlenecks and delivered features in an **Agile environment**
 - Redesigned UI components for improved UX and brand consistency
 
 <br>
 
-## 🔐 Operative Toolkit
+## 🧱 Technology Stack
 
 <div align="center">
 
-  **Primary Weapons (Languages)**
+  **Languages**
   <br>
   ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
   ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+  ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
   ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
   ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-  ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 
   <br>
 
-  **Command & Control (Backend & Frameworks)**
+  **Backend & Frameworks**
   <br>
   ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-  ![Microservices](https://img.shields.io/badge/Microservices-00ff9c?style=for-the-badge&logoColor=black)
-  ![REST API](https://img.shields.io/badge/RESTful_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
   ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
   ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
   ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+  ![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+  ![Microservices](https://img.shields.io/badge/Microservices-2cb67d?style=for-the-badge&logoColor=white)
 
   <br>
 
-  **Covert Infrastructure (Cloud & DevOps)**
+  **Cloud & DevOps**
   <br>
   ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
   ![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
@@ -97,18 +121,19 @@ I'm a **Software Engineer** specializing in backend systems, cloud infrastructur
 
   <br>
 
-  **Intelligence Network (Data & AI)**
+  **Data & AI**
   <br>
   ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
   ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-  ![RAG Systems](https://img.shields.io/badge/RAG_Systems-7209b7?style=for-the-badge&logoColor=white)
-  ![Vector DB](https://img.shields.io/badge/Vector_Databases-00ff9c?style=for-the-badge&logoColor=black)
+  ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+  ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+  ![RAG Systems](https://img.shields.io/badge/RAG_Systems-7f5af0?style=for-the-badge&logoColor=white)
+  ![Vector DB](https://img.shields.io/badge/Vector_Databases-64ffda?style=for-the-badge&logoColor=black)
   ![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logoColor=white)
-  ![DeepSeek](https://img.shields.io/badge/DeepSeek-1a1a2e?style=for-the-badge&logoColor=white)
 
   <br>
 
-  **Field Tools (Testing & QA)**
+  **Testing & Tooling**
   <br>
   ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
   ![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white)
@@ -120,21 +145,40 @@ I'm a **Software Engineer** specializing in backend systems, cloud infrastructur
 
 <br>
 
-## 📂 Active Case Files (Projects)
+## 📐 System Designs (Projects)
 
-| Case ID | Mission Codename | Intel | Verdict |
-| :--- | :--- | :--- | :--- |
-| **#001** | 🤖 **Multi-Agent Automation (crewAI)** | crewAI · Ollama · DeepSeek · Python | **Success:** Agentic Sales & Support pipelines with multi-agent coordination |
-| **#002** | 🌐 **ContentEngineering-React** | React · JavaScript | **Deployed:** Scalable content engineering module |
-| **#003** | 📰 **BBC Full-Stack Clone** | React · Python · Flask | **Deployed:** Full-stack news platform with backend API |
-| **#004** | 🔗 **URL Shortener** | Go | **Active:** High-performance link routing service |
-| **#005** | 💬 **Prompt Sharing Platform** | Next.js · MongoDB | **Active:** AI prompt collaboration and sharing tool |
+```
+┌──────────────────────────────────────────────────────────────────────┐
+│  PROJECT REGISTRY                                                     │
+├────────┬──────────────────────────────────┬─────────────────────────┤
+│  #001  │  Multi-Agent Automation (crewAI) │  crewAI · Ollama ·      │
+│        │  Agentic Sales & Support         │  DeepSeek · Python      │
+│        │  pipelines with multi-agent      │                         │
+│        │  task delegation                 │  [ SHIPPED ]            │
+├────────┼──────────────────────────────────┼─────────────────────────┤
+│  #002  │  ContentEngineering-React        │  React · JavaScript     │
+│        │  Scalable content engineering    │                         │
+│        │  module                          │  [ DEPLOYED ]           │
+├────────┼──────────────────────────────────┼─────────────────────────┤
+│  #003  │  BBC Full-Stack Clone            │  React · Python · Flask │
+│        │  Full-stack news platform        │                         │
+│        │  with backend API layer          │  [ DEPLOYED ]           │
+├────────┼──────────────────────────────────┼─────────────────────────┤
+│  #004  │  URL Shortener                   │  Go                     │
+│        │  High-performance link           │                         │
+│        │  routing service                 │  [ ACTIVE ]             │
+├────────┼──────────────────────────────────┼─────────────────────────┤
+│  #005  │  Prompt Sharing Platform         │  Next.js · MongoDB      │
+│        │  AI prompt collaboration         │                         │
+│        │  and sharing tool                │  [ ACTIVE ]             │
+└────────┴──────────────────────────────────┴─────────────────────────┘
+```
 
 <br>
 
-## 🏅 Credentials & Certifications
+## 🎓 Credentials
 
-| Badge | Issuing Authority | Year |
+| Credential | Institution | Year |
 |:---|:---|:---|
 | 🟡 AWS Certified Cloud Practitioner | Amazon Web Services | 2026 |
 | 🎓 M.S. Computer Science — GPA: 3.92/4.00 | Florida Atlantic University | 2026 |
@@ -142,7 +186,7 @@ I'm a **Software Engineer** specializing in backend systems, cloud infrastructur
 
 <br>
 
-## 📉 Agency Activity Logs
+## 📊 GitHub Metrics
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=VismayGajera112&theme=tokyonight&hide_border=true" height="150" alt="streak stats" />
@@ -159,7 +203,7 @@ I'm a **Software Engineer** specializing in backend systems, cloud infrastructur
   <code><img height="20" src="https://img.shields.io/badge/JAVA_%2F_SPRING-90%25-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/></code>
   <code><img height="20" src="https://img.shields.io/badge/CLOUD_%2F_DEVOPS-85%25-232F3E?style=flat-square&logo=amazon-aws&logoColor=white"/></code>
   <code><img height="20" src="https://img.shields.io/badge/KUBERNETES_%2F_DOCKER-80%25-2496ED?style=flat-square&logo=docker&logoColor=white"/></code>
-  <code><img height="20" src="https://img.shields.io/badge/AI_%2F_RAG_SYSTEMS-75%25-7209b7?style=flat-square&logoColor=white"/></code>
+  <code><img height="20" src="https://img.shields.io/badge/AI_%2F_RAG-75%25-7f5af0?style=flat-square&logoColor=white"/></code>
 </div>
 
 <br>
@@ -167,6 +211,6 @@ I'm a **Software Engineer** specializing in backend systems, cloud infrastructur
 ---
 
 <div align="center">
-  <p><i>"The best systems are the ones no one notices — because they never fail."</i></p>
-  <img src="https://komarev.com/ghpvc/?username=VismayGajera112&label=FIELD+VISITS&color=0d1117&style=for-the-badge&labelColor=00ff9c" alt="profile views" />
+  <p><i>"Build it right the first time. Then build it better."</i></p>
+  <img src="https://komarev.com/ghpvc/?username=VismayGajera112&label=PROFILE+VIEWS&color=0a192f&style=for-the-badge&labelColor=64ffda" alt="profile views" />
 </div>
