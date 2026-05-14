@@ -1,12 +1,12 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Courier+Prime&weight=700&size=24&pause=1000&color=64FFDA&center=true&vCenter=true&width=850&lines=VISMAY+GAJERA;Software+Engineer+%7C+Backend+%26+Cloud;Designing+Systems+Built+to+Last;Boca+Raton%2C+Florida+%7C+Open+to+Relocation" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Courier+Prime&weight=700&size=24&pause=1000&color=F5A623&center=true&vCenter=true&width=850&lines=VISMAY+GAJERA;Software+Engineer+%7C+Backend+%26+Cloud;Designing+Systems+Built+to+Last;Boca+Raton%2C+Florida+%7C+Open+to+Relocation" alt="Typing SVG" />
 </h1>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/ARCHITECT-BACKEND_%26_CLOUD-64ffda?style=for-the-badge&labelColor=0a192f" />
-  <img src="https://img.shields.io/badge/STACK-JAVA_%7C_PYTHON_%7C_GO-7f5af0?style=for-the-badge&labelColor=0a192f" />
-  <img src="https://img.shields.io/badge/CLOUD-AWS_%7C_GCP-2cb67d?style=for-the-badge&labelColor=0a192f" />
-  <img src="https://img.shields.io/badge/STATUS-OPEN_TO_OPPORTUNITIES-64ffda?style=for-the-badge&labelColor=0a192f" />
+  <img src="https://img.shields.io/badge/ARCHITECT-BACKEND_%26_CLOUD-F5A623?style=for-the-badge&labelColor=1a1a2e" />
+  <img src="https://img.shields.io/badge/STACK-JAVA_%7C_PYTHON_%7C_GO-e94560?style=for-the-badge&labelColor=1a1a2e" />
+  <img src="https://img.shields.io/badge/CLOUD-AWS_%7C_GCP-F5A623?style=for-the-badge&labelColor=1a1a2e" />
+  <img src="https://img.shields.io/badge/STATUS-OPEN_TO_OPPORTUNITIES-e94560?style=for-the-badge&labelColor=1a1a2e" />
 </div>
 
 ---
@@ -105,7 +105,7 @@ LAYER: Full-Stack & Security
   ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
   ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
   ![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-  ![Microservices](https://img.shields.io/badge/Microservices-2cb67d?style=for-the-badge&logoColor=white)
+  ![Microservices](https://img.shields.io/badge/Microservices-F5A623?style=for-the-badge&logoColor=white)
 
   <br>
 
@@ -127,9 +127,9 @@ LAYER: Full-Stack & Security
   ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
   ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
   ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-  ![RAG Systems](https://img.shields.io/badge/RAG_Systems-7f5af0?style=for-the-badge&logoColor=white)
-  ![Vector DB](https://img.shields.io/badge/Vector_Databases-64ffda?style=for-the-badge&logoColor=black)
-  ![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logoColor=white)
+  ![RAG Systems](https://img.shields.io/badge/RAG_Systems-e94560?style=for-the-badge&logoColor=white)
+  ![Vector DB](https://img.shields.io/badge/Vector_Databases-F5A623?style=for-the-badge&logoColor=black)
+  ![Ollama](https://img.shields.io/badge/Ollama-1a1a2e?style=for-the-badge&logoColor=white)
 
   <br>
 
@@ -189,12 +189,18 @@ LAYER: Full-Stack & Security
 ## 📊 GitHub Metrics
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VismayGajera112&theme=tokyonight&hide_border=true" height="150" alt="streak stats" />
+
+  <!-- Streak stats — uses a reliable community-hosted fork -->
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=VismayGajera112&theme=dark&background=1a1a2e&border=F5A623&ring=F5A623&fire=e94560&currStreakLabel=F5A623&sideLabels=F5A623&dates=888888&hide_border=false" height="160" alt="streak stats" />
+
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VismayGajera112&show_icons=true&locale=en&theme=tokyonight&hide_border=true" height="150" alt="github stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=VismayGajera112&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="top languages" />
+
+  <!-- Stats & top languages via faster, more reliable fork -->
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=VismayGajera112&show_icons=true&theme=dark&bg_color=1a1a2e&title_color=F5A623&icon_color=e94560&text_color=ffffff&border_color=F5A623&hide_border=false" height="160" alt="github stats" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=VismayGajera112&layout=compact&theme=dark&bg_color=1a1a2e&title_color=F5A623&text_color=ffffff&border_color=F5A623&hide_border=false" height="160" alt="top languages" />
+
 </div>
 
 <br>
@@ -203,7 +209,7 @@ LAYER: Full-Stack & Security
   <code><img height="20" src="https://img.shields.io/badge/JAVA_%2F_SPRING-90%25-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/></code>
   <code><img height="20" src="https://img.shields.io/badge/CLOUD_%2F_DEVOPS-85%25-232F3E?style=flat-square&logo=amazon-aws&logoColor=white"/></code>
   <code><img height="20" src="https://img.shields.io/badge/KUBERNETES_%2F_DOCKER-80%25-2496ED?style=flat-square&logo=docker&logoColor=white"/></code>
-  <code><img height="20" src="https://img.shields.io/badge/AI_%2F_RAG-75%25-7f5af0?style=flat-square&logoColor=white"/></code>
+  <code><img height="20" src="https://img.shields.io/badge/AI_%2F_RAG-75%25-e94560?style=flat-square&logoColor=white"/></code>
 </div>
 
 <br>
@@ -212,5 +218,5 @@ LAYER: Full-Stack & Security
 
 <div align="center">
   <p><i>"Build it right the first time. Then build it better."</i></p>
-  <img src="https://komarev.com/ghpvc/?username=VismayGajera112&label=PROFILE+VIEWS&color=0a192f&style=for-the-badge&labelColor=64ffda" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=VismayGajera112&label=PROFILE+VIEWS&color=1a1a2e&style=for-the-badge&labelColor=F5A623" alt="profile views" />
 </div>
