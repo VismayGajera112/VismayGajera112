@@ -21,8 +21,8 @@ I don't just write code. I draft the blueprint, stress-test the foundation, and 
 
 ```
 ┌─────────────────────────────────────────────────────────┐
-│  ARCHITECTURE PILLARS                                    │
-│                                                          │
+│  ARCHITECTURE PILLARS                                   │
+│                                                         │
 │  ⬡  Microservices   →  Decompose. Decouple. Deploy.     │
 │  ⬡  Cloud-Native    →  Build for scale from day one.    │
 │  ⬡  Event-Driven    →  Async by design, not by patch.   │
@@ -148,8 +148,8 @@ LAYER: Full-Stack & Security
 ## 📐 System Designs (Projects)
 
 ```
-┌──────────────────────────────────────────────────────────────────────┐
-│  PROJECT REGISTRY                                                     │
+┌─────────────────────────────────────────────────────────────────────┐
+│  PROJECT REGISTRY                                                   │
 ├────────┬──────────────────────────────────┬─────────────────────────┤
 │  #001  │  Multi-Agent Automation (crewAI) │  crewAI · Ollama ·      │
 │        │  Agentic Sales & Support         │  DeepSeek · Python      │
