@@ -4,7 +4,7 @@
 
 <div align="center">
   <img src="https://img.shields.io/badge/ARCHITECT-BACKEND_%26_CLOUD-F5A623?style=for-the-badge&labelColor=1a1a2e" />
-  <img src="https://img.shields.io/badge/STACK-JAVA_%7C_PYTHON_%7C_GO-e94560?style=for-the-badge&labelColor=1a1a2e" />
+  <img src="https://img.shields.io/badge/STACK-JAVA_%7C_PYTHON-e94560?style=for-the-badge&labelColor=1a1a2e" />
   <img src="https://img.shields.io/badge/CLOUD-AWS_%7C_GCP-F5A623?style=for-the-badge&labelColor=1a1a2e" />
   <img src="https://img.shields.io/badge/STATUS-OPEN_TO_OPPORTUNITIES-e94560?style=for-the-badge&labelColor=1a1a2e" />
 </div>
