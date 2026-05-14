@@ -43,9 +43,6 @@ I don't just write code. I draft the blueprint, stress-test the foundation, and 
   <a href="mailto:vismaygajera2001@gmail.com">
     <img src="https://img.shields.io/badge/Email-0078D4?style=flat&logo=microsoft-outlook&logoColor=white" height="28"/>
   </a>
-  <a href="https://github.com/VismayGajera112">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" height="28"/>
-  </a>
 </p>
 
 <br>
